@@ -1,7 +1,5 @@
 # blog
-vim的使用
 #VIM的使用
-
 ##VIM的模式
 vim分为两种模式，命令模式和编辑模式。其中命令模式又可以分为Last line mode和command mode.
 vim+文件名进入编辑画面，默认为命令模式，按【i】切换到编辑模式，可以编辑文件的内容。
